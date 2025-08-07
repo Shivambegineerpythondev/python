@@ -1,0 +1,6 @@
+print("shivam")
+print(9)
+print("shivam",9)
+print("shivam \nJR")
+print(96 ,"%")
+print(95,end="%")
