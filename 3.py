@@ -9,3 +9,4 @@ print(c,type(c))
 
 d = False
 print(d,type(d))
+
